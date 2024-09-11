@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor solution link](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw/hub/interactive-card-details-form-solution-responsive-mobile-first-3xdHcHqjQJ)
-- Live Site URL: [https://drougnov.github.io/interactive-card-details-form-main/](https://drougnov.github.io/interactive-card-details-form-main/)
+
 
 ## My process
 
@@ -72,8 +72,7 @@ I need to learn how to handle form more easily and proficiently.
 
 ## Author
 
-- Frontend Mentor - [@BIPLOB BARUA](https://www.frontendmentor.io/profile/Drougnov)
-- Facebook - [@Biplob Barua Rocky](https://www.facebook.com/ANT1D0t35)
+- Facebook - [@Biplob Barua Rocky](https://www.facebook.com/pias.al.mahmud)
 
 ## Acknowledgments
 
