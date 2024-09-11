@@ -72,7 +72,8 @@ I need to learn how to handle form more easily and proficiently.
 
 ## Author
 
-- Facebook - [@Biplob Barua Rocky](https://www.facebook.com/pias.al.mahmud)
+- Facebook - [@A. Al Mahmud Pias](https://www.facebook.com/pias.al.mahmud)
+- LinkedIn [@Abdullah Al Mahmud Pias](https://www.linkedin.com/in/almahmudpias/)
 
 ## Acknowledgments
 
